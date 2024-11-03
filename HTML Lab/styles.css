@@ -1,0 +1,19 @@
+body{
+    background-color:darkgrey;
+    font-family: Arial;
+
+}
+h1{
+    color: forestgreen;
+    text-align:center;
+}
+h2{
+    color: blue;
+    text-align:center
+
+}
+p{
+  text-align:center;
+    color: maroon;
+    font-size: large;
+}
